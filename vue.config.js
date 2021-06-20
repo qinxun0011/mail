@@ -13,5 +13,9 @@ module.exports = {
                 'views': '@/views',
             }
         }
+    },
+
+    css: {
+      sourceMap: true
     }
 }
